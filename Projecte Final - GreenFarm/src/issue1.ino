@@ -4,8 +4,8 @@
 #include <WebServer.h>
 
 // ── CONFIGURACIÓ WiFi ─────────────────────────────
-const char* ssid     = "TU_WIFI";
-const char* password = "TU_PASSWORD";
+const char* ssid     = "holaa123";
+const char* password = "dihifh";
 
 // ── CONFIGURACIÓ DE PINS ──────────────────────────
 #define LM35_PIN     34
