@@ -1,9 +1,4 @@
-/*
-  GreenFarm IoT - Sistema de Reg Intel·ligent
-  Client: Granja GreenFarm
-  Hardware: ESP32 + Sensor LM35
-  Autor: IoT Projects Lab
-*/
+
 
 #include <WiFi.h>
 #include <WebServer.h>
